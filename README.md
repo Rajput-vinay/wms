@@ -17,4 +17,4 @@ The routes will be generated using our algorithm which follow the approach follo
 ![image](https://user-images.githubusercontent.com/105452265/206534428-18d5e5bc-753b-44d8-a566-ac5f4c41ab8f.png)
 [image](https://user-images.githubusercontent.com/105452265/206534526-77a38d13-7afd-4da2-9623-f228928a2cfc.png)
                                        
-![image](https://user-images.githubusercontent.com/105452265/206534571-cc56c35d-6ebe-40b3-b9eb-2fb74c211318.png)
+https://user-images.githubusercontent.com/105452265/206534571-cc56c35d-6ebe-40b3-b9eb-2fb74c211318.png)
