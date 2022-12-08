@@ -14,9 +14,6 @@ This is a PHP Project entitled Waste Collection Management System .This system m
 The routes will be generated using our algorithm which follow the approach followed by CVRP algorithm.  Daily routes will be generated taking into account the real time garbage level. Capacity of vehicles and the distance between bins, etc . G map API provides an efficient way and real time  distances according to the traffic parameter for the inputs.
 2. Implement the secure payment system
 Team Members![image](https://user-images.githubusercontent.com/105452265/206535540-d2a8fb38-6189-4035-80e8-981b4eca5550.png)
-ANUBHOOTI PANDEY
-OM MISHRA
-TRIPTI  TIWARI
- VINAY RAJPUT (TEAM LEADER)                                         
+                                       
 ![image](https://user-images.githubusercontent.com/105452265/206535604-cf422bc7-17a6-4aae-a3b4-839675754b29.png)
 
