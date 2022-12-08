@@ -13,13 +13,10 @@ This is a PHP Project entitled Waste Collection Management System .This system m
 1.  TRUCK MONITORING SYSTEM
 The routes will be generated using our algorithm which follow the approach followed by CVRP algorithm.  Daily routes will be generated taking into account the real time garbage level. Capacity of vehicles and the distance between bins, etc . G map API provides an efficient way and real time  distances according to the traffic parameter for the inputs.
 2. Implement the secure payment system
-
-![image](https://user-images.githubusercontent.com/105452265/206534428-18d5e5bc-753b-44d8-a566-ac5f4c41ab8f.png)
-[image](https://user-images.githubusercontent.com/105452265/206534526-77a38d13-7afd-4da2-9623-f228928a2cfc.png)
-                                       
-https://user-images.githubusercontent.com/105452265/206534571-cc56c35d-6ebe-40b3-b9eb-2fb74c211318.png)
-team member
+Team Members![image](https://user-images.githubusercontent.com/105452265/206535540-d2a8fb38-6189-4035-80e8-981b4eca5550.png)
 ANUBHOOTI PANDEY
 OM MISHRA
 TRIPTI  TIWARI
- VINAY RAJPUT (TEAM LEADER)  
+ VINAY RAJPUT (TEAM LEADER)                                         
+![image](https://user-images.githubusercontent.com/105452265/206535604-cf422bc7-17a6-4aae-a3b4-839675754b29.png)
+
